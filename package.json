@@ -1,0 +1,8 @@
+{
+  "name": "Razor",
+  "version": "0.0.1",
+  "description": "Reverse templating",
+  "dependencies": {
+    "mustache": "0.8.1"
+  }
+}
